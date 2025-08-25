@@ -1,4 +1,4 @@
-# errand_dash
+# ErrandDash
 A Secure Peer-to-Peer Errand Platform API
 
 ## Introduction
