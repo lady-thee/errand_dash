@@ -46,11 +46,9 @@ Deployment Target: AWS / DigitalOcean with Docker (Final decision will be made w
 - An account with a payment provider (e.g., Paystack)
 
 **Installation**
-Clone the repository:
-code
-Bash
-git clone https://github.com/ladythee/errand_dash.git
-cd errand_dash
+- Clone the repository:
+  `git clone https://github.com/ladythee/errand_dash.git`
+- cd errand_dash
 
 
 ## API Documentation
