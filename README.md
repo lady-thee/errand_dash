@@ -47,7 +47,7 @@ Deployment Target: AWS / DigitalOcean with Docker (Final decision will be made w
 
 **Installation**
 - Clone the repository:
-  `git clone https://github.com/ladythee/errand_dash.git`
+  `git clone [https://github.com/lady-thee/errand_dash.git](https://github.com/lady-thee/errand_dash.git)`
 - cd errand_dash
 
 
